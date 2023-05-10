@@ -1,3 +1,3 @@
-const dialog = require('node-native-dialog')
+const dialog = require('dialog')
 const crypto = require('crypto')
 const fs = require('fs')
